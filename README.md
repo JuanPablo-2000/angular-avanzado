@@ -42,3 +42,17 @@ Comenzaremos a crear dentro de la carpeta shared los componentes como breadcrumb
 **ng g c shared/header --skip-tests -is**
 
 ## Optimización y creación de modulos personalizados.
+
+
+## Sección 4
+
+Esta sección esta enfocada en módulos principalmente:
+
+* Crear un módulo personalizado
+* Crear rutas hijas
+* Comenzaremos a crear módulos para agrupar tareas específicas
+* Realizar cambios en GitHub
+* Crear Release Tags que nos permitan descargar el código fácilmente, 
+    en caso de que necesitemos volver a comenzar donde nos quedemos.
+
+En clases más adelante del curso, seguimos creando módulos, por lo que esta sección es muy importante
